@@ -1,0 +1,29 @@
+*{
+    background-color:beige;
+}
+button{
+    border: none;
+    width: 5rem;
+    height: 5rem;
+    border: 2px solid;
+    font-size: xx-large;
+}
+button:hover{
+    background-color: rgb(238, 238, 188);
+}
+h2{
+    margin-top: 0;
+    font-size: 3rem;
+    font-family: 'Impact (sans-serif)' 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+.board{
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    /* text-align: center; */
+    align-items: center;
+}
+p{
+    font-size: 3rem;
+}
